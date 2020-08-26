@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FacebookUsageLimited</string>
+    <string name="settings">Settings</string>
+    <string name="graph">Memory\nUsing Facebook</string>
+    <string name="units">Units</string>
+    <string name="time_length">Time Length</string>
+    <string name="language">Language</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="second">Second</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="select_units">Select Units</string>
+    <string name="select_language">Select Language</string>
+    <string name="save">SAVE</string>
+    <string name="you_have">You have </string>
+    <string name="left"> left</string>
+    <string name="notification">Notification</string>
+    <string name="notification_content">Your newest Android version requires Usage Stats permission turned on. Please turn it on before using this app.</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="exit">Exit</string>
+    <string name="quote">"Để cai nghiện một thứ gì đó thật sự không dễ dàng, bạn phải vượt qua chính bản thân mình. Hãy tham gia nhiều hơn các hoạt động thực tế để trau dồi kĩ năng nhiều hơn bạn nhé!"</string>
+</resources>
